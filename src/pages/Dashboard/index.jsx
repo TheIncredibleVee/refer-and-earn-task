@@ -2,6 +2,10 @@ import {appData} from '../../constants/data';
 import './dashboard.css';
 import {Nav, Data, WithdrawBalance} from '../../components';
 import {Link} from 'react-router-dom';
+import box from '../../assets/bxs-offer-2.svg'
+import group from '../../assets/groups-2.svg'
+import account from '../../assets/account-balance-wallet-2.svg'
+import offer from '../../assets/local-offer-2.svg'
 
 function Dashboard() {
   const {
@@ -137,10 +141,10 @@ function Dashboard() {
               />
             </div>
           </div>
-          <img className="bxsoffer" src="./src/assets/bxs-offer-2.svg" alt="bxs:offer" />
-          <img className="groups" src="./src/assets/groups-2.svg" alt="Groups" />
-          <img className="account-balance-wallet" src="./src/assets/account-balance-wallet-2.svg" alt="Account balance wallet" />
-          <img className="local-offer" src="./src/assets/local-offer-2.svg" alt="Local offer" />
+          <img className="bxsoffer" src={box} alt="bxs:offer" />
+          <img className="groups" src={group} alt="Groups" />
+          <img className="account-balance-wallet" src={account} alt="Account balance wallet" />
+          <img className="local-offer" src={offer}alt="Local offer" />
           <div className="text-3">
             {text3}
           </div>
