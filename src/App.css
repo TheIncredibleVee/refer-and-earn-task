@@ -1,0 +1,372 @@
+
+  
+
+  .flex-row {
+    align-items: flex-start;
+    align-self: center;
+    display: flex;
+    gap: 93px;
+    margin-right: 53px;
+    margin-top: 179px;
+    min-width: 939px;
+    z-index: 1;
+  }
+  
+  .dashboard {
+    align-items: center;
+    background-color: var(--white);
+    border-radius: 20px;
+    box-shadow: 0px 3px 100px #0000001a;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    height: 188px;
+    overflow: hidden;
+    padding: 20px 0;
+    position: relative;
+    width: 486px;
+  }
+  
+  .frame-container {
+    align-items: flex-start;
+    display: flex;
+    height: 69px;
+    min-width: 446px;
+  }
+  
+  .frame-278 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .referral-earning,
+  .total-referrals,
+  .wallet-balance {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .text-1,
+  .number,
+  .text-2 {
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame-279 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 62px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame-280 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 63px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .your-referral-code {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+    min-height: 105px;
+    width: 360px;
+  }
+  
+  .your-referral-code-1,
+  .how-does-it-work-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 36px;
+  }
+  
+  .frame-281 {
+    align-items: flex-start;
+    border: 1.5px solid;
+    border-color: transparent;
+    border-image: linear-gradient(to bottom, rgb(128, 0, 128), rgb(255, 134, 76)) 1;
+    border-radius: 10px;
+    display: flex;
+    height: 60px;
+    overflow: hidden;
+    padding: 13.5px 64px;
+    width: 358px;
+  }
+  
+  .edch54 {
+    color: var(--cardinal-pink);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-xl);
+    font-weight: 500;
+    letter-spacing: 30px;
+    line-height: normal;
+    min-height: 30px;
+  }
+  
+  .overlap-group {
+    align-self: center;
+    height: 332px;
+    margin-right: 226px;
+    margin-top: 40px;
+    position: relative;
+    width: 766px;
+    z-index: 2;
+  }
+  
+  .how-does-it-work {
+    align-items: center;
+    display: flex;
+    gap: 46px;
+    height: 332px;
+    left: 0;
+    min-width: 766px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .flex-col {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 332px;
+    position: relative;
+    width: 359px;
+  }
+  
+  .data {
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    height: 72px;
+    margin-left: 2px;
+    margin-top: 20px;
+    min-width: 356px;
+  }
+  
+  .ellipse-132 {
+    background-color: var(--iron);
+    border-radius: 32.5px;
+    height: 65px;
+    margin-top: 1px;
+    width: 65px;
+  }
+  
+  .content {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 72px;
+    width: 275px;
+  }
+  
+  .invite-your-friends {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 24px;
+    width: 151px;
+  }
+  
+  .share-the-link-tuted {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 48px;
+    width: 271px;
+  }
+  
+  .data-container {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-bottom: 46px;
+    min-height: 174px;
+    position: relative;
+    width: 359px;
+  }
+  
+  .data-1 {
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    height: 72px;
+    min-width: 354px;
+  }
+  
+  .content-1 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 72px;
+    width: 273px;
+  }
+  
+  .friend-purchases-any-course {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 24px;
+    width: 245px;
+  }
+  
+  .using-your-referral {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 48px;
+    width: 269px;
+  }
+  
+  .bxsoffer {
+    height: 32px;
+    left: 422px;
+    position: absolute;
+    top: 193px;
+    width: 32px;
+  }
+  
+  .groups {
+    height: 32px;
+    left: 19px;
+    position: absolute;
+    top: 77px;
+    width: 32px;
+  }
+  
+  .account-balance-wallet {
+    height: 32px;
+    left: 17px;
+    position: absolute;
+    top: 281px;
+    width: 32px;
+  }
+  
+  .local-offer {
+    height: 32px;
+    left: 422px;
+    position: absolute;
+    top: 65px;
+    width: 32px;
+  }
+  
+  .text-3 {
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent;
+    background: linear-gradient(180deg, rgb(128, 0, 128) 0%, rgb(255, 134, 76) 100%);
+    background-clip: text;
+    color: transparent;
+    font-family: var(--font-family-verdana-bold);
+    font-size: var(--font-size-xxxl);
+    font-weight: 700;
+    left: 21px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-fill-color: transparent;
+    top: 174px;
+  }
+  
+  .friends-who-enrolled {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 187px;
+    margin-top: 59px;
+    min-height: 24px;
+    z-index: 3;
+  }
+  
+  .terms-conditions {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 187px;
+    margin-top: 20px;
+    min-height: 24px;
+    z-index: 4;
+  }
+  .withdraw-balance {
+    align-items: flex-start;
+    background-color: var(--cardinal-pink);
+    border-radius: 20px;
+    display: flex;
+    gap: 10px;
+    padding: 8px 16px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .withdraw-balance-1 {
+    color: var(--white);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-m);
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .data-2-1 {
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    height: 72px;
+    margin-top: 30px;
+    min-width: 359px;
+  }
+  
+  .ellipse-132-1 {
+    background-color: var(--iron);
+    border-radius: 32.5px;
+    height: 65px;
+    margin-top: 1px;
+    width: 65px;
+  }
+  
+  .content-2 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 72px;
+    width: 278px;
+  }
+  
+  .you-get-200-as-referral-money {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 24px;
+    width: 264px;
+  }
+  
+  .on-total-purchase-th {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 48px;
+    width: 274px;
+  }
+  
+  .data-2-1.data-2 .you-get-200-as-referral-money,
+  .data-2-1.data-3 .you-get-200-as-referral-money {
+    width: 231px;
+  }
+  
+  .data-2-1.data-3 {
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    height: 72px;
+    min-width: 359px;
+  }
+  
