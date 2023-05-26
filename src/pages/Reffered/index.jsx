@@ -2,11 +2,10 @@ import './referred.css'
 import { referredData } from '../../constants/referredData';
 import {Nav, Frame, ReferralCode, Amount} from '../../components';
 import {Link} from 'react-router-dom'
-
+import logo from '../../assets/logo.png'
 function Referred() {
     
     const {
-        logo,
         uiUxReferEarnFriendsReferred,
         spanText1,
         spanText2,

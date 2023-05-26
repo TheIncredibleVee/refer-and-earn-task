@@ -6,10 +6,9 @@ import box from '../../assets/bxs-offer-2.svg'
 import group from '../../assets/groups-2.svg'
 import account from '../../assets/account-balance-wallet-2.svg'
 import offer from '../../assets/local-offer-2.svg'
-
+import logo from '../../assets/logo.png'
 function Dashboard() {
   const {
-    logo,
     uiUxReferEarn,
     referralEarning,
     text1,
